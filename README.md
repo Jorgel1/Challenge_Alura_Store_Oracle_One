@@ -1,6 +1,6 @@
-# 📊 Análise de Dados das Lojas - Challenge Data Science
+# 📊 Challenge Data Science - Análise de Dados das Lojas 
 
-Desafio: Análise de Vendas e Desempenho de Lojas...
+Desafio: Análise de Vendas e Desempenho de Lojas.
 
 Problema a ser Analisado: Sr. João é proprietário de 4 lojas do varejo, e pediu para a equipe de Data Science, que elaborasse um relatório das 4 lojas, trazendo informações de qual loja seria a menos eficiente, para que ele pudesse tomar a decisão de vender a loja menos eficiente com base nos dados
 
@@ -68,7 +68,3 @@ Este projeto mostra como é possível realizar uma análise completa e gerar ins
 
 ---
 
-## 👤 Autor
-
-**Luiz André de Souza**  
-📧 [LinkedIn](https://www.linkedin.com/in/brodyandre) | 🧠 *Big Insights*
